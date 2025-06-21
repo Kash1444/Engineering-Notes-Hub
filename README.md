@@ -18,7 +18,7 @@ Welcome to the ultimate collection of engineering study materials, sorted by dep
 - 📘 [Artificial intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2f143d16b946a09f202c8cedee3cb199a8da1709/CSE/Artificial%20Intelligence)
 - 📘 [Computer Architecture](https://github.com/Kash1444/Engineering-Notes-Hub/tree/1553d0f36d1127a575496d7da35eb20a5e59eda1/CSE/Computer%20Architecture)
 - 📘 [Linear Algebra](https://github.com/Kash1444/Engineering-Notes-Hub/tree/26ae8d99c15e2fe17df7e210cd3d973f9c9c01f6/CSE/Linear%20Algebra)
-- 📘 [Operating System] (https://github.com/Kash1444/Engineering-Notes-Hub/tree/e44bdef64d6d0508fe0c7f37192b34f9b601ccb3/CSE/Operating%20System)
+- 📘 [Operating System](https://github.com/Kash1444/Engineering-Notes-Hub/tree/e44bdef64d6d0508fe0c7f37192b34f9b601ccb3/CSE/Operating%20System)
 
 
 ## 🙌 Contributing
