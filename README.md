@@ -15,7 +15,7 @@ Welcome to the ultimate collection of engineering study materials, sorted by dep
 3. Open or download the notes you need.
 
 ## 📂 CSE - Semester 4
-- 📘 [Artificial intelligence](CSE/Semester-4/Artificial intelligence)
+- 📘 [Artificial intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/5227d7943a47dbbcc45184ef40fd766026b29390/CSE/Semester-4/Artificial%20intelligence)
 
 
 ## 🙌 Contributing
