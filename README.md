@@ -2,98 +2,70 @@
 
 # 📘 Engineering Notes Hub
 
-🎓 *Department-wise & Semester-wise Notes for Engineering Students*  
-💡 *Contribute, Collaborate & Learn Together*
+🎓 *The ultimate collection of Engineering notes sorted by Department & Semester*  
+📚 *Made for students, by students*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kash1444/Engineering-Notes-Hub)
 ![GitHub stars](https://img.shields.io/github/stars/Kash1444/Engineering-Notes-Hub)
 ![GitHub forks](https://img.shields.io/github/forks/Kash1444/Engineering-Notes-Hub)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 </div>
 
 ---
 
-## 📂 Departments Available
+## 📚 Departments
 
-| Department | Link |
-|------------|------|
-| 👨‍💻 Computer Science & Engineering (CSE) | [Go to CSE](#-cse-notes) |
-| 📡 Electronics & Communication Engineering (ECE) | [Go to ECE](#-ece-notes) |
-| ⚡ Electrical & Electronics Engineering (EEE) | [Go to EEE](#-eee-notes) |
-| 🛠️ Mechanical Engineering (MECH) | [Go to MECH](#-mech-notes) |
-| 🏗️ Civil Engineering (CIVIL) | [Go to CIVIL](#-civil-notes) |
+### 👨‍💻 Computer Science & Engineering (CSE)
 
----
-
-## 🧑‍🏫 About This Repository
-
-This repository is a curated collection of notes, organized **semester-wise** and **subject-wise** for each engineering department.
-
-📌 Designed for easy access  
-📌 Open for contributions  
-📌 Completely free and open-source
+#### 📂 Semester 4
+- 📘 [Artificial Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Artificial%20Intelligence)
+- 🖥️ [Computer Architecture](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Computer%20Architecture)
+- 🔢 [Linear Algebra](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Linear%20Algebra)
+- 🧠 [Operating System](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Operating%20System)
+- 🛠️ [Software Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Software%20Engineering)
+- 📐 [Theory Of Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Theory%20Of%20Computation)
 
 ---
 
-## 🛠 How to Use
+### 📡 Electronics & Communication Engineering (ECE)
+> ⚠️ Notes coming soon. Want to contribute? Check the [CONTRIBUTING.md](CONTRIBUTING.md)
 
-1. Navigate to your **department folder**
-2. Choose the **semester**
-3. Open or download the **subject notes**
+### ⚡ Electrical & Electronics Engineering (EEE)
+> ⚠️ Notes coming soon. Your contributions are welcome!
 
----
+### 🛠️ Mechanical Engineering (MECH)
+> ⚠️ Notes coming soon. Help us grow!
 
-<details>
-<summary>📘 <strong>CSE Notes</strong></summary>
-
-### 🧠 Semester 4
-
-- 🧠 [Artificial Intelligence](CSE/Semester-4/Artificial-Intelligence.md)
-
-### 💻 Semester 1
-- 🔢 [Engineering Mathematics I](CSE/Semester-1/Engineering-Maths-I.md)
-- 💻 [Programming in C](CSE/Semester-1/Programming-in-C.pdf)
-
-</details>
-
-<details>
-<summary>📡 <strong>ECE Notes</strong></summary>
-
-### 🧠 Semester 1
-- ⚡ [Basic Electrical Engineering](ECE/Semester-1/Basic-Electrical.md)
-
-</details>
-
-<details>
-<summary>⚡ <strong>EEE Notes</strong></summary>
-
-_📁 Notes coming soon!_
-
-</details>
-
-<details>
-<summary>🛠 <strong>MECH Notes</strong></summary>
-
-_📁 Notes coming soon!_
-
-</details>
-
-<details>
-<summary>🏗 <strong>CIVIL Notes</strong></summary>
-
-_📁 Notes coming soon!_
-
-</details>
+### 🏗️ Civil Engineering (CIVIL)
+> ⚠️ Notes coming soon. Collaborate and add content!
 
 ---
 
-## 🤝 Contributing
+## 🧑‍🎓 How to Use
 
-Want to help? Awesome!  
-Check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+1. 📁 Navigate to your department folder  
+2. 🗂 Choose the semester  
+3. 📥 Click the subject to read/download notes
 
-```bash
-📥 Fork the repo
-🛠️ Add your notes in the correct folder
-🚀 Make a pull request
+---
+
+## 🙌 Contributing
+
+We welcome contributions from all engineering students!  
+Whether you're adding a PDF, Markdown file, or links to good resources — you are helping others learn. 💖
+
+📄 See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+
+---
+
+## 📄 License
+
+This repository is open-source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+Made with ❤️ by [@Kash1444](https://github.com/Kash1444) — Engineering for Everyone
+
+</div>
