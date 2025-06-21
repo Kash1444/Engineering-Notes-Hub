@@ -35,7 +35,7 @@
 - 🧑‍💻 [Software Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Software%20Engineering)
 - 🧠 [Theory of Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Theory%20Of%20Computation)
 
-### 📂 Semester 4
+### 📂 Semester 5
 
 </details>
 
