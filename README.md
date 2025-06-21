@@ -12,6 +12,7 @@ Welcome to the ultimate collection of engineering study materials, sorted by dep
 - 📘 [Linear Algebra](https://github.com/Kash1444/Engineering-Notes-Hub/tree/26ae8d99c15e2fe17df7e210cd3d973f9c9c01f6/CSE/Linear%20Algebra)
 - 📘 [Operating System](https://github.com/Kash1444/Engineering-Notes-Hub/tree/e44bdef64d6d0508fe0c7f37192b34f9b601ccb3/CSE/Operating%20System)
 - 📘 [Software Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c7b779fe40b20876a0aed83ae209bf7f5d363e68/CSE/Software%20Engineering)
+- 📘 [Theory Of Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/153a0de35ac1ea5720ae004661fe2731ed74ff5d/CSE/Theory%20Of%20Computation)
 
 # 📡 Electronics & Communication (ECE)
 need resources
