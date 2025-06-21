@@ -8,6 +8,8 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Kash1444/Engineering-Notes-Hub?color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Kash1444/Engineering-Notes-Hub?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/Kash1444/Engineering-Notes-Hub?style=social)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![License: MIT](https://img.shields.io/github/license/Kash1444/Engineering-Notes-Hub)
 
 </div>
 
@@ -15,10 +17,22 @@
 
 ## 🚀 How to Use
 
-🧭 **Step-by-Step**
-1. Choose your **Department** below
-2. Expand the section to view subjects
-3. Click to open 📘 notes or 📄 PDFs
+🧭 **Step-by-Step Guide**
+1. Scroll to your **Department** below
+2. Expand the section for your **Semester**
+3. Click any 📘 Note or 📄 PDF to view/download
+
+---
+
+## 📌 Quick Access
+
+| Department | Jump To |
+|------------|---------|
+| 👨‍💻 CSE | [Go to CSE](#computer-science--engineering-cse) |
+| 📡 ECE | [Go to ECE](#electronics--communication-engineering-ece) |
+| ⚡ EEE | [Go to EEE](#electrical--electronics-engineering-eee) |
+| 🛠️ MECH | [Go to MECH](#mechanical-engineering-mech) |
+| 🏗️ CIVIL | [Go to CIVIL](#civil-engineering-civil) |
 
 ---
 
@@ -27,7 +41,9 @@
 <details>
 <summary>👨‍💻 <strong>Computer Science & Engineering (CSE)</strong></summary>
 
-### 📂 Semester 4
+<details>
+<summary>📂 <strong>Semester 4</strong></summary>
+
 - 🤖 [Artificial Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Artificial%20Intelligence)
 - 🖥️ [Computer Architecture](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Computer%20Architecture)
 - 🔢 [Linear Algebra](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Linear%20Algebra)
@@ -35,7 +51,14 @@
 - 🧑‍💻 [Software Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Software%20Engineering)
 - 🧠 [Theory of Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Theory%20Of%20Computation)
 
-### 📂 Semester 5
+</details>
+
+<details>
+<summary>📂 <strong>Semester 5</strong></summary>
+
+- 🌐 _Coming soon..._
+
+</details>
 
 </details>
 
@@ -78,11 +101,4 @@
 ## 🙌 Contributing
 
 ✨ **We need your help!**  
-Upload handwritten notes, PDFs, or create well-structured markdown notes for your subjects.
-
-📥 [See CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
-```bash
-📌 Fork the repo
-🧠 Add notes in correct folder (Dept/Semester)
-🚀 Create a pull request
+Upload your handwritten notes, lecture summaries, or create markdown versions of sub
