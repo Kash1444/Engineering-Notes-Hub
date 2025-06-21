@@ -15,7 +15,7 @@ Welcome to the ultimate collection of engineering study materials, sorted by dep
 3. Open or download the notes you need.
 
 ## 📂 CSE - Semester 4
-- 📘 [Artificial intelligence (Link)](CSE/Semester-4/Artificial intelligence)
+- 📘 [Artificial intelligence](CSE/Semester-4/Artificial intelligence)
 
 
 ## 🙌 Contributing
