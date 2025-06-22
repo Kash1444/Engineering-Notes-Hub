@@ -1,48 +1,44 @@
-<div align="center">
+<h1 align="center">📘 <strong>Engineering Notes Hub</strong></h1>
 
-# 📘 Engineering Notes Hub
+<p align="center">
+  🎓 <em>Your one-stop, open-source library for engineering students</em> <br/>
+  🔍 <em>Explore notes by department, semester & subject — and contribute yours too!</em>
+</p>
 
-🎓 *The ultimate open-source notes library for engineering students*  
-🔍 *Search by department, semester & subject – contribute your own too!*
+<p align="center">
+  <img src="https://media1.tenor.com/m/YgSo7zDb93UAAAAC/engineering-engineer.gif" alt="Engineering GIF" width="600"/>
+</p>
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Kash1444/Engineering-Notes-Hub?color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Kash1444/Engineering-Notes-Hub?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Kash1444/Engineering-Notes-Hub?style=social)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![License: MIT](https://img.shields.io/github/license/Kash1444/Engineering-Notes-Hub)
+<p align="center">
+  <a href="https://github.com/Kash1444/Engineering-Notes-Hub">
+    <img src="https://img.shields.io/github/repo-size/Kash1444/Engineering-Notes-Hub?color=blue" alt="Repo Size"/>
+  </a>
+  <a href="https://github.com/Kash1444/Engineering-Notes-Hub/stargazers">
+    <img src="https://img.shields.io/github/stars/Kash1444/Engineering-Notes-Hub?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/Kash1444/Engineering-Notes-Hub/network/members">
+    <img src="https://img.shields.io/github/forks/Kash1444/Engineering-Notes-Hub?style=social" alt="GitHub Forks"/>
+  </a>
+  <a href="https://github.com/Kash1444/Engineering-Notes-Hub/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Kash1444/Engineering-Notes-Hub" alt="License: MIT"/>
+  </a>
+  <a href="https://github.com/Kash1444/Engineering-Notes-Hub/issues">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen" alt="Contributions Welcome"/>
+  </a>
+</p>
 
-</div>
-
----
-
-## 🚀 How to Use
-
-🧭 **Step-by-Step Guide**
-1. Scroll to your **Department** below
-2. Expand the section for your **Semester**
-3. Click any 📘 Note or 📄 PDF to view/download
-
----
-
-## 📌 Quick Access
-
-| Department | Jump To |
-|------------|---------|
-| 👨‍💻 CSE | [Go to CSE](#computer-science--engineering-cse) |
-| 📡 ECE | [Go to ECE](#electronics--communication-engineering-ece) |
-| ⚡ EEE | [Go to EEE](#electrical--electronics-engineering-eee) |
-| 🛠️ MECH | [Go to MECH](#mechanical-engineering-mech) |
-| 🏗️ CIVIL | [Go to CIVIL](#civil-engineering-civil) |
-
+<hr/>
 ---
 
 ## 📚 Departments & Notes
 
-<details>
-<summary>👨‍💻 <strong>Computer Science & Engineering (CSE)</strong></summary>
+### 👨‍💻 Computer Science & Engineering (CSE)
 
 <details>
-<summary>📂 <strong>Semester 4</strong></summary>
+<summary><strong>📂 Semester 4</strong> – Click to expand</summary>
+
+> ✅ Fully Available  
+> 📥 Easily downloadable notes for each subject
 
 - 🤖 [Artificial Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Artificial%20Intelligence)
 - 🖥️ [Computer Architecture](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Computer%20Architecture)
@@ -54,51 +50,40 @@
 </details>
 
 <details>
-<summary>📂 <strong>Semester 5</strong></summary>
+<summary><strong>📂 Semester 5</strong> – Click to expand</summary>
 
-- 🌐 _Coming soon..._
-
-</details>
+> 🚧 _Notes in progress — stay tuned!_
 
 </details>
+
+### 📡 Electronics & Communication Engineering (ECE)
+
+> 📝 Notes coming soon  
+> 🙋‍♂️ Want to help? [**Contribute here**](CONTRIBUTING.md)
+
+### ⚡ Electrical & Electronics Engineering (EEE)
+
+> 📝 Notes coming soon  
+> 🙌 Your contributions are welcome!
+
+### 🛠️ Mechanical Engineering (MECH)
+
+> 📝 Notes coming soon  
+> 📥 Share your resources to help fellow engineers
+
+### 🏗️ Civil Engineering (CIVIL)
+
+> 📝 Notes coming soon  
+> 🚧 Let’s build this section together — your contributions matter!
 
 ---
 
-<details>
-<summary>📡 <strong>Electronics & Communication Engineering (ECE)</strong></summary>
+### ✅ Want to Add Your Notes?
 
-📝 Notes coming soon.  
-🙋 Want to contribute? [Click here](CONTRIBUTING.md)
+We’re actively seeking notes for:
+- Other semesters
+- Lab manuals
+- Handwritten formula sheets
+- Diagram-heavy subjects
 
-</details>
-
-<details>
-<summary>⚡ <strong>Electrical & Electronics Engineering (EEE)</strong></summary>
-
-📝 Notes coming soon.  
-🙋 Your contributions are welcome!
-
-</details>
-
-<details>
-<summary>🛠️ <strong>Mechanical Engineering (MECH)</strong></summary>
-
-📝 Notes coming soon.  
-📥 Submit yours to help your juniors!
-
-</details>
-
-<details>
-<summary>🏗️ <strong>Civil Engineering (CIVIL)</strong></summary>
-
-📝 Notes coming soon.  
-🚧 Let's build this section together!
-
-</details>
-
----
-
-## 🙌 Contributing
-
-✨ **We need your help!**  
-Upload your handwritten notes, lecture summaries, or create markdown versions of sub
+> ✨ **[Start contributing here →](CONTRIBUTING.md)**
