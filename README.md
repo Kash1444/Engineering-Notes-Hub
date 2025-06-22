@@ -48,7 +48,15 @@
 <details>
 <summary><strong>📂 Semester 3</strong> – Click to expand</summary>
 
-> 🚧 _Notes in progress — stay tuned!_
+> ✅ Fully Available  
+> 📥 Easily downloadable notes for each subject
+
+- 🧮 [DAA (Design and Analysis of Algorithms)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/DAA)
+- 🗄️ [DBMS (Database Management Systems)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/DBMS)
+- 📊 [DPSD (Discrete Probability & Statistical Data)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/DPSD)
+- ➗ [Mathematics](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/Maths)
+- 👨‍💻 [OOP (Object-Oriented Programming)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/OOP)
+- 🌐 [UHVE (Universal Human Values & Ethics)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/c941a2af632ec0e4b7ec9be4d9aee61246d7b20e/CSE/sem3/UHVE)
 
 </details>
 
