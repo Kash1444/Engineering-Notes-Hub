@@ -33,6 +33,24 @@
 ## 📚 Departments & Notes
 
 ### 👨‍💻 Computer Science & Engineering (CSE)
+<details>
+<summary><strong>📂 Semester 1</strong> – Click to expand</summary>
+
+> 🚧 _Notes in progress — stay tuned!_
+
+</details>
+<details>
+<summary><strong>📂 Semester 2</strong> – Click to expand</summary>
+
+> 🚧 _Notes in progress — stay tuned!_
+
+</details>
+<details>
+<summary><strong>📂 Semester 3</strong> – Click to expand</summary>
+
+> 🚧 _Notes in progress — stay tuned!_
+
+</details>
 
 <details>
 <summary><strong>📂 Semester 4</strong> – Click to expand</summary>
@@ -50,7 +68,20 @@
 </details>
 
 <details>
-<summary><strong>📂 Semester 5</strong> – Click to expand</summary>
+<summary><strong>📂 Semester 6</strong> – Click to expand</summary>
+
+> 🚧 _Notes in progress — stay tuned!_
+
+</details>
+
+<details>
+<summary><strong>📂 Semester 7</strong> – Click to expand</summary>
+
+> 🚧 _Notes in progress — stay tuned!_
+
+</details>
+<details>
+<summary><strong>📂 Semester 8</strong> – Click to expand</summary>
 
 > 🚧 _Notes in progress — stay tuned!_
 
