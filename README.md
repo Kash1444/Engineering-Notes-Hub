@@ -36,13 +36,31 @@
 <details>
 <summary><strong>📂 Semester 1</strong> – Click to expand</summary>
 
-> 🚧 _Notes in progress — stay tuned!_
+> ✅ Fully Available  
+> 📥 Easily downloadable notes for each subject
+
+- 💻 [Computer Science](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/Computer%20science)
+- ⚗️ [Chemistry](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/chemistry)
+- 🧲 [Physics](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/Physics)
+- ➗ [Mathematics](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/Maths)
+- 📝 [English](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/English)
+- 🗣️ [Tamil](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/SEM1/Tamil)
+
 
 </details>
 <details>
 <summary><strong>📂 Semester 2</strong> – Click to expand</summary>
 
-> 🚧 _Notes in progress — stay tuned!_
+> ✅ Fully Available  
+> 📥 Easily downloadable notes for each subject
+
+- 📐 [DSC (Data Structures and C Programming)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/DSC)
+- ⚡ [EEE (Electrical and Electronics Engineering)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/EEE)
+- 📏 [EG (Engineering Graphics)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/EG)
+- ➗ [Mathematics](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/MATH)
+- 📝 [ENG (English)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/ENG)
+- 🌍 [TAMIL (Tamil Language)](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2e023ff1fdc93b5e911a0dcf9e98863769474535/CSE/sem2/TAMIL)
+
 
 </details>
 <details>
@@ -72,6 +90,13 @@
 - 💾 [Operating System](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Operating%20System)
 - 🧑‍💻 [Software Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Software%20Engineering)
 - 🧠 [Theory of Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Theory%20Of%20Computation)
+
+</details>
+
+<details>
+<summary><strong>📂 Semester 5</strong> – Click to expand</summary>
+
+> 🚧 _Notes cooking..._
 
 </details>
 
