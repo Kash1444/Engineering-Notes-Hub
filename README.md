@@ -114,7 +114,7 @@
 <details>
 <summary><strong>📂 Semester 7</strong> – Click to expand</summary>
 
-> 🚧 _Notes in progress — stay tuned!_
+- 🖥️ [Virtualization](https://github.com/Kash1444/Engineering-Notes-Hub/tree/3f332178e4cb24fea26465b4bcf074268646ef58/CSE/SEM7/Virtualization)
 
 </details>
 <details>
