@@ -116,7 +116,7 @@
 
 - 🖥️ [Virtualization](https://github.com/Kash1444/Engineering-Notes-Hub/tree/3f332178e4cb24fea26465b4bcf074268646ef58/CSE/SEM7/Virtualization)
 - ☁️ [Security and Privacy in cloud](https://github.com/Kash1444/Engineering-Notes-Hub/tree/2167d5116811681ca598d5975fdc749cf69907da/CSE/sem%205/Cloud%20services%20mangement](https://github.com/Kash1444/Engineering-Notes-Hub/tree/1ceae92c9db045cd05ddea73ef6149b100207c36/CSE/SEM7/Security-and-privacy-in-cloud))
-- 🤖 [Artificial Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Artificial%20Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/1ceae92c9db045cd05ddea73ef6149b100207c36/CSE/SEM7/Machine-Learning-and-it's-applications))
+- 🤖 [Artificial Intelligence and its application](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Artificial%20Intelligence](https://github.com/Kash1444/Engineering-Notes-Hub/tree/1ceae92c9db045cd05ddea73ef6149b100207c36/CSE/SEM7/Machine-Learning-and-it's-applications))
 - 🧑‍💻 [Total Quality Management](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Software%20Engineering](https://github.com/Kash1444/Engineering-Notes-Hub/tree/17d0dcf6d9b3abf0e1763205b4d575a3534d17eb/CSE/SEM7/Total%20Quality%20Management))
 - 🔢 [Data Science](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Linear%20Algebra](https://github.com/Kash1444/Engineering-Notes-Hub/tree/8fc8120fe59a9437c01ca15165edf9910ca61ada/CSE/SEM7/Data-Science))
 - 🧠 [Deep Learning](https://github.com/Kash1444/Engineering-Notes-Hub/tree/main/CSE/Theory%20Of%20Computation](https://github.com/Kash1444/Engineering-Notes-Hub/tree/e8cb9770f1c697e1eb8def934b747f8323061abd/CSE/SEM7/Deep-Learning))
